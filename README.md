@@ -42,7 +42,7 @@ Negative Rewards: -2 to -10 for failed connections, poor resource allocation, an
 Terminal Bonuses: Additional rewards for serving all patients, completing all records, and updating all stakeholders
 Installation
 # Clone the repository
-git clone https://github.com/your-username/mission-based-rl.git
+git clone https://github.com/yourusername/Summative---Mission-Based-Reinforcement-Learning.git
 
 # Install dependencies
 pip install -r requirements.txt
